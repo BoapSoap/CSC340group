@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
+#include <students.txt>
 int main() {
     LinkedList studentList;
 
